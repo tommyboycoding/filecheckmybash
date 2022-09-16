@@ -11,7 +11,7 @@ nothing crazy, just learning statements and such.
 
 thanks
 
--tommyboy
+~tommyboy
 
 (make sure to chmod +x filechecker.sh to use)
 
