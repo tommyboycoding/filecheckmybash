@@ -12,3 +12,7 @@ nothing crazy, just learning statements and such.
 thanks
 
 -tommyboy
+
+(make sure to chmod +x filechecker.sh to use)
+
+syntax: ./filechecker.sh <fileanddial>
